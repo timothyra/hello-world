@@ -1,5 +1,4 @@
 # hello-world
-This is my first project I made in GitHub - hope it'll be fun.
 
 Projects which are on my list for the next couple of years:
 -----------------------------------------------------------------
